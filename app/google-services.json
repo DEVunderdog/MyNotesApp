@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "630879190277-m65q9ct0hav1g58hatv1tnr7mmvtcgkh.apps.googleusercontent.com",
+          "client_id": "630879190277-jqp4sas8hsca6q5t2c3m7tmrns6k5nfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.somename.mynotesapp",
+            "certificate_hash": "805ae6dfa041ed500b164dd3d36aaecb34701162"
+          }
+        },
+        {
+          "client_id": "630879190277-1bhvcc3nqsinj30fq5jikdvje1dhka16.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +35,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "630879190277-m65q9ct0hav1g58hatv1tnr7mmvtcgkh.apps.googleusercontent.com",
+              "client_id": "630879190277-1bhvcc3nqsinj30fq5jikdvje1dhka16.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
